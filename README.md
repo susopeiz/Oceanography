@@ -1,2 +1,2 @@
 # Oceanography
-Some code of physical oceanography calculation
+Some code of physical oceanography calculations
